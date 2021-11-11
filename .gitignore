@@ -3,3 +3,9 @@
 /src/main/resources/my.properties
 /.idea/
 *.iml
+
+/src/test/resources/my.properties
+/out/
+*.ipr
+*.iws
+
